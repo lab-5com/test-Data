@@ -6,6 +6,8 @@ Develop a streaming data processing application that joins two datasets, simulat
 ### Scenario
 - You are provided with two files: one representing **transaction facts** (e.g., timestamp, product ID, quantity) and the other containing **product details** (e.g., product ID, product name, price).
 - Your tasks is 
+  - **Prepare the files** using provided script (in [Generate Data Files](#howto-to-generate-the-data-files-you-will-work-with)
+    ).
   - **Implement a streaming application** that joins these datasets on the product ID, outputting a combined dataset with transaction details enriched by product information.
   - **Compute Gross Turnover**: In a streaming fashion, compute the gross turnover by products (product ID, product name, total sales amount), and the total gross turnover across all products. This state should be stored in a persistent store (e.g., a database, a stateful service, or a file) and updated in real-time as new transactions are processed.
 
@@ -19,3 +21,6 @@ Develop a streaming data processing application that joins two datasets, simulat
 1. Source code for the streaming application, including any configuration files.
 2. A brief documentation explaining your solution, choice of technology, how to run your application and tests, and how the gross turnover calculations are implemented and stored.
 3. Test cases.
+
+### Howto: To generate the data files you will work with
+`../generate-data.sh`

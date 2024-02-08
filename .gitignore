@@ -1,3 +1,6 @@
 dbldatagen_env
 .DS_Store
 .idea
+*.csv
+*egg-info
+__pycache__
