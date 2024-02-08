@@ -18,4 +18,4 @@ Develop a streaming data processing application that joins two datasets, simulat
 ### Deliverables
 1. Source code for the streaming application, including any configuration files.
 2. A brief documentation explaining your solution, choice of technology, how to run your application and tests, and how the gross turnover calculations are implemented and stored.
-3. Test cases and their execution results.
+3. Test cases.

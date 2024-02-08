@@ -10,6 +10,6 @@ Lab5com offers this suite to challenge and gauge the expertise of professionals 
 
 ### Projects Overview
 
-- **Streaming Data Processing Assessment**: Develop a real-time data joining application. Details in [DATA-ENGINEERING-STREAMING.md](DATA-ENGINEERING-STREAMING.md).
+- **Streaming Data Processing Assessment**: Develop a real-time data joining application. Details in [DATA-ENGINEERING-STREAMING.md](data-engineering-streaming/README.md).
 
 This initiative reflects Lab5com's commitment to fostering innovation and expertise in data engineering.
