@@ -10,7 +10,7 @@ Develop a streaming data processing application that joins two datasets, simulat
   - **Compute Gross Turnover**: In a streaming fashion, compute the gross turnover by products (product ID, product name, total sales amount), and the total gross turnover across all products. This state should be stored in a persistent store (e.g., a database, a stateful service, or a file) and updated in real-time as new transactions are processed.
 
 ### Requirements
-- **Streaming Technology**: You may choose any streaming technology you prefer, with a preference for Kafka Streams, Spark Streaming, or Apache Beam.
+- **Streaming Technology**: You may choose any streaming technology you prefer, with a preference for Spark Streaming, Kafka Streams, FS2, Akka Streams, or Apache Beam.
 - **Programming Language**: While you may use any programming language, Scala is preferred.
 - **Output**: The application should output the joined dataset and the computed gross turnovers in real-time, simulating a continuous stream. Output format can be to a console, file, or any mock sink of your choice.
 - **Testing**: Implement tests to validate your streaming logic, data integrity, and correctness of the computed turnovers.

@@ -1,13 +1,15 @@
-# Data Engineering Test Suite
+# Data Engineering Assessment Suite for Lab5com
 
-Welcome to our Data Engineering Test Suite, a comprehensive umbrella project designed to evaluate and develop skills across various data engineering domains, including streaming data processing and DBT (Data Build Tool)-inspired projects.
+![Lab5com Logo](lab5comlogoclassic.svg) <!-- Replace with the actual path to the Lab5com logo -->
+
+Welcome to Lab5com's Data Engineering Assessment Suite. This project is designed as a comprehensive evaluation tool to assess skills in streaming data processing and DBT-inspired projects.
 
 ## Getting Started
 
-This repository serves as a starting point for a series of technical tests aimed at assessing and improving your capabilities in modern data engineering practices. Whether you're a seasoned expert or new to the field, this suite offers challenges designed to showcase your skills in real-world scenarios.
+Lab5com offers this suite to challenge and gauge the expertise of professionals in data engineering, from seasoned experts to newcomers. It showcases real-world scenarios across different domains.
 
 ### Projects Overview
 
-- **Streaming Data Processing Test**: Develop a streaming application that joins two datasets in real-time. More details can be found in [DATA-ENGINEERING-STREAMING.md](DATA-ENGINEERING-STREAMING.md).
+- **Streaming Data Processing Assessment**: Develop a real-time data joining application. Details in [DATA-ENGINEERING-STREAMING.md](DATA-ENGINEERING-STREAMING.md).
 
-- **DBT-Inspired Projects**: Implement data transformation workflows using principles inspired by DBT. Specific challenges and guidelines are provided in their respective markdown files within this repository.
+This initiative reflects Lab5com's commitment to fostering innovation and expertise in data engineering.
