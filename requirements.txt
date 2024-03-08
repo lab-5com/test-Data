@@ -1,0 +1,7 @@
+pyspark
+jmespath
+numpy
+pandas
+pyparsing
+pyarrow
+dbldatagen
